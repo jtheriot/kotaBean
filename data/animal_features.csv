@@ -1,27 +1,27 @@
 Animal,Location,Classification,Life_Span,Diet,Weight,Speed,Length,Habitat
-Cheetah,Africa,Mammal,10 – 15,Carnivore,Medium,60 – 70,Medium,Grassland
-Zebra,Africa,Mammal,20 – 25,Herbivore,Large,30 – 40,Medium,Grassland
-Lion,Africa,Mammal,10 – 15,Carnivore,Large,40 – 50,Medium,"Grassland, Desert"
-Elephant,"Africa, Asia",Mammal,55 – 60,Herbivore,Large,20 – 30,Large,"Forest, Grassland"
-Bee,Everywhere,Insect,0 – 5,Herbivore,Small, ,Small,
-Buffalo,North America,Mammal,15 – 20,Herbivore,Large,30 – 40,Large,Grassland
-Sea_Lion,North America,Mammal,15 – 20,Carnivore,Large,20 – 30,Medium,"Freshwater, Ocean"
-Ladybug,Everywhere,Insect,0 – 5,Omnivore,Small,10 – 20,Small,"Grassland, Forest"
-Hawk,North America,Bird,20 – 25,Carnivore,Small,110 – 120,Medium,Forest
-Hyena,Africa,Mammal,20 – 25,Omnivore,Medium,30 – 40,Medium,Grassland
-Tiger,Asia,Mammal,20 – 25,Carnivore,Large,30 – 40,Large,Forest and grassland
-Jaguar,South America,Mammal,10 – 15,Carnivore,Large,40 – 50,Medium,"Forest, Mountain, Desert"
-Lizard,Everywhere,Reptile,5 – 10,Carnivore,Small,,Small,Desert
-Brown_Bear,"Asia,North America, Europe",Mammal,20 – 25,Omnivore,Large,20 – 30,Large,"Grassland, Mountain"
-Leopard,"Asia,Africa",Mammal,15 – 20,Carnivore,Medium,20 – 30,Large,"Forest, Mountain, Grassland, Desert"
-Spider,Everywhere,Invertebrate,0 – 5,Carnivore,Small,,Small,
-Monkey,South America,Mammal,25 – 30,Omnivore,Small,20 – 30,Small,Forest
-Gorilla,Africa,Mammal,30 – 35,Omnivore,Large,20 – 30,Medium,Mountain
-Snowy_Owl,"North America, Europe, Asia",Bird,5 – 10,Carnivore,Small,40 – 50,Medium,"Freshwater,Ocean,Arctic,And Grassland"
-Mallard_Duck,"North America, Europe, Asia",Bird,5 – 10,Omnivore,Small,40 – 50,Small,Freshwater
-Sea_Turtle,Ocean,Reptile,75 – 80,Herbivore,Large,10 – 20,Medium,Ocean
-Blue_Footed_Booby,Central America,Bird,15 – 20,Carnivore,Small,20 – 30,Medium,Ocean
-Giraffe,Africa,Mammal,20 – 25,Herbivore,Large,30 – 40,Large,Grassland
-Prezwalski_Horse,Asia,Mammal,20 – 25,Herbivore,Large,30 – 40,Medium,Grassland
-Bobcat,North America,Mammal,10 – 15,Carnivore,Small,20 – 30,Small,"Forest,mountain,and desert"
-Wolf,"North America, Europe, Asia",Mammal,5 – 10,Carnivore,Medium,30 – 40,Medium,"Forest,mountain,grassland,and arctic"
+Cheetah,Africa,Mammal,10_15,Carnivore,Medium,60_70,Medium,Grassland
+Zebra,Africa,Mammal,20_25,Herbivore,Large,30_40,Medium,Grassland
+Lion,Africa,Mammal,10_15,Carnivore,Large,40_50,Medium,"Grassland, Desert"
+Elephant,"Africa, Asia",Mammal,55_60,Herbivore,Large,20_30,Large,"Forest, Grassland"
+Bee,Everywhere,Insect,0_5,Herbivore,Small, ,Small,
+Buffalo,North America,Mammal,15_20,Herbivore,Large,30_40,Large,Grassland
+Sea_Lion,North America,Mammal,15_20,Carnivore,Large,20_30,Medium,"Freshwater, Ocean"
+Ladybug,Everywhere,Insect,0_5,Omnivore,Small,10_20,Small,"Grassland, Forest"
+Hawk,North America,Bird,20_25,Carnivore,Small,110_120,Medium,Forest
+Hyena,Africa,Mammal,20_25,Omnivore,Medium,30_40,Medium,Grassland
+Tiger,Asia,Mammal,20_25,Carnivore,Large,30_40,Large,"Forest, Grassland"
+Jaguar,South America,Mammal,10_15,Carnivore,Large,40_50,Medium,"Forest, Mountain, Desert"
+Lizard,Everywhere,Reptile,5_10,Carnivore,Small,,Small,Desert
+Brown_Bear,"Asia,North America, Europe",Mammal,20_25,Omnivore,Large,20_30,Large,"Grassland, Mountain"
+Leopard,"Asia,Africa",Mammal,15_20,Carnivore,Medium,20_30,Large,"Forest, Mountain, Grassland, Desert"
+Spider,Everywhere,Invertebrate,0_5,Carnivore,Small,,Small,
+Monkey,South America,Mammal,25_30,Omnivore,Small,20_30,Small,Forest
+Gorilla,Africa,Mammal,30_35,Omnivore,Large,20_30,Medium,Mountain
+Snowy_Owl,"North America, Europe, Asia",Bird,5_10,Carnivore,Small,40_50,Medium,"Freshwater, Ocean, Arctic, Grassland"
+Mallard_Duck,"North America, Europe, Asia",Bird,5_10,Omnivore,Small,40_50,Small,Freshwater
+Sea_Turtle,Ocean,Reptile,75_80,Herbivore,Large,10_20,Medium,Ocean
+Blue_Footed_Booby,Central America,Bird,15_20,Carnivore,Small,20_30,Medium,Ocean
+Giraffe,Africa,Mammal,20_25,Herbivore,Large,30_40,Large,Grassland
+Prezwalski_Horse,Asia,Mammal,20_25,Herbivore,Large,30_40,Medium,Grassland
+Bobcat,North America,Mammal,10_15,Carnivore,Small,20_30,Small,"Forest, Mountain, Desert"
+Wolf,"North America, Europe, Asia",Mammal,5_10,Carnivore,Medium,30_40,Medium,"Forest, Mountain, Grassland, Arctic"
