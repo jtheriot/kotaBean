@@ -30,7 +30,7 @@ def create_column_list(df):
                         continue
 
                     else:
-                        crecolList.append(colName)
+                        collList.append(colName)
 
         elif col == 'Location':
             for val in df[col].unique():
@@ -108,14 +108,3 @@ def measure_similarity(binaryMatrix, df):
     return df
 
 
-
-
-
-
-
-
-
-
-
-
- m
