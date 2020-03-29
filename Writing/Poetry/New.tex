@@ -1,0 +1,176 @@
+% General notes:
+% 1) All lines in a verse environment must end with \\, the last verse in a stanza
+% must end in \\!
+
+\documentclass[11pt, a4paper]{article} 
+
+\usepackage{verse} 
+
+\usepackage[T1]{fontenc} 
+\usepackage{palatino}
+%\usepackage{stix} % Alternative Stix fon
+
+\setlength{\parindent}{0pt}
+
+% Author styles
+\newcommand{\poemauthorcenter}[1]{\nopagebreak{\centering\footnotesize\textsc{#1}\par}} % Author as a footnote at the end of the poem center aligned
+\newcommand{\poemauthorright}[1]{\nopagebreak{\raggedleft\footnotesize\textsc{#1}\par}} % Author as a footnote at the end of the poem aligned right
+
+\renewcommand{\poemtitlefont}{\normalfont\bfseries\large\centering} % Define the poem title style
+
+\setlength{\stanzaskip}{0.75\baselineskip} % The distance between stanzas
+
+\pagestyle{empty} % Stop page numbering through the document
+
+\begin{document}
+
+\poemtitle{Life Beginning}
+
+\settowidth{\versewidth}{If you can} % Insert one of the average-sized verses, used for centering the poem
+
+\begin{verse}[\versewidth]
+
+%------------------------------------------------
+
+Write \\
+thoughts, \\
+poetry, \\
+a novel, \\
+my theological beliefs. \\!
+
+%------------------------------------------------
+
+Read \\
+classics, \\
+modern literature, \\
+essays, \\
+study mathematics. \\!
+
+%------------------------------------------------
+
+Watch \\
+foreign films, \\
+my children,
+movements in the woods \\
+in the river. \\!
+
+%------------------------------------------------
+
+Find \\
+my self, \\
+my family, \\
+my path, \\
+life. \\!
+
+%------------------------------------------------
+
+How shall I use my time? Measure time? \\!
+
+%------------------------------------------------
+
+At one knot, life is mine to choose. \\ 
+The ability to pursue passion. \\ 
+Yet, unable to determine that passion. \\
+Though capable of the discipline required to find, 
+see that passion out. \\!
+
+%------------------------------------------------
+
+To observe \\
+the night sky, \\
+over a season, \\
+from a single perception. \\
+
+To observe \\
+the individual, 
+ours, \\
+over a life, \\
+yields no answers. \\
+
+%------------------------------------------------
+
+Over two years, \\
+writing my life, \\
+fictionalized, \\
+a rambling disjointed memoir. \\
+A recount of where life was, \\
+is, \\
+going. \\!
+
+%------------------------------------------------
+
+My reading will deepen. \\ 
+Classics in literature, philosophy, history, theology, mathematics, science. \\
+Training will change to run a 100 miler through the swamps, a 100 miler over the mountains. \\
+Writing daily, drink whiskey nightly. \\!
+
+%------------------------------------------------
+
+Early morning fog are low clouds \\
+Low clouds are fog in the late night \\
+Fog envelopes the woods \\
+Acting as the canopy \\
+As the sky \\
+The canopy \\
+The sky \\
+Shadows of trees in the fog \\
+Fog \\
+The moisture \\
+A beard softens \\
+Over a jog \\
+In low clouds \\
+Drops of water \\
+In a beard \\
+The fog \\
+Droplets fall \\
+Rain \\
+Too heavy \\ 
+For the edges \\!
+
+%------------------------------------------------
+
+Last weekend, I learned how to shot a rifle. \\
+Prior it was the military. \\ 
+Always rushed. \\
+Enough time to see if you could load a round, fire a shot, hit a target. \\ 
+At the range, in the rimfire corner, by myself for two hours. \\
+Now I understand. \\
+Load, unload, fix a jam, disassemble, clean, reassemble, fire. \\!
+
+The next day I taught my daughter. 
+
+A successful hunt, a lofty goal, a distant dream. To get a boat into the river, swamps, marsh, to fish, is the same. A distant dream.  
+
+I want a farm, a flat boat for the rivers.
+
+I want a cabin in Southeast Alaska. Live there three to five months out of the year. 
+
+I'll write.
+
+I'll find my voice.
+
+%------------------------------------------------
+
+Poetry
+Will be an obscure fact
+In a memoir
+No one read
+Published
+Hundreds of years from now.
+
+%------------------------------------------------
+
+Until then, I will not cut my beard, until I have found the path, my direction. 
+How many knots?
+
+%------------------------------------------------
+
+\end{verse}
+
+%------------------------------------------------
+
+\poemauthorright{J. Theriot} % Right-aligned author
+
+
+
+\end{document}
