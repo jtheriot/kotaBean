@@ -12,12 +12,12 @@ From society
 The norms  
 Direction  
 Perplexed on the migration  
-Of time 
-I remain confined 
-To my mind  
-Pious to Augustine 
-Oppose my faith 
-Wait for Zion 
-Conversion 
-Yield to the 
-Yearning s
+Of time  
+I remain confined  
+To my mind 
+Pious to Augustine  
+Oppose my faith  
+Wait for Zion  
+Conversion  
+Yield to the  
+Yearning
