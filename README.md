@@ -1,2 +1,3 @@
-# kotaBean
-Homebase for our projects
+# Kota Bean
+
+Through writing we understand.
