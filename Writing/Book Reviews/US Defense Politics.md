@@ -1,6 +1,6 @@
-# US Defense Politics: The Origins of Security Policy 
-## by Harvey M. Sapolsky, Eugene Gholz, and Caitlin Talmadge. 
-## Routledge, 2009, 191 pp.
+*US Defense Politics: The Origins of Security Policy*
+_by Harvey M. Sapolsky, Eugene Gholz, and Caitlin Talmadge_
+Routledge, 2009, 191 pp
 
 In US Defense Politics, Prof. Harvey Sapolsky of MIT, Prof. Eugene Gholz of the LBJ School of Public Affairs at the University of Texas–Austin, and PhD candidate Caitlin Talmadge of MIT provide a detailed look into politics affecting our national defense. The authors offer a brief history lesson on the military before addressing four questions characteristic of US policy making: “(1) What shall be the division between public and private responsibilities in each particular policy area? (2) What shall be the division between planning and the market? (3) What is to be centralized and what is to be decentralized in each policy area? (4) And what questions should be settled by experts, on technocratic grounds, and what should be settled by political means, representing the will of the people?” (p. 8).
 
