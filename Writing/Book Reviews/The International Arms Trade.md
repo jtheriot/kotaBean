@@ -1,4 +1,4 @@
-**The International Arms Trade** 
+**The International Arms Trade**  
 _by Rachel Stohl and Suzette Grillot_   
 Polity Press, 2009, 176 pp  
 
