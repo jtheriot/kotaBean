@@ -1,6 +1,7 @@
 **The International Arms Trade**  
 _by Rachel Stohl and Suzette Grillot_   
 Polity Press, 2009, 176 pp  
+Appeared in [Strategic Studies Quarterly February 27, 2013](https://www.airuniversity.af.edu/SSQ/Book-Reviews/Article/1192731/the-international-arms-trade/)
 
 In The International Arms Trade, Rachel Stohl, Associate Fellow at Chatham House in London, and Suzette Grillot, associate professor of political science and international and areas studies at the University of Oklahoma, describe the international conventional arms trade and the impact of these weapons throughout the world. The authors offer a brief history lesson on the arms trade from Thucydides’ The Peloponnesian War through the present day before addressing four key points: (1) the legal supply and transfer of arms, (2) the illicit arms trade, (3) the consequences of the international arms trade, and (4) control of that trade.
 

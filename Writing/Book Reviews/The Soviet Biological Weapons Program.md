@@ -1,6 +1,7 @@
 **The Soviet Biological Weapons Program: A History**  
 _by Milton Leitenberg and Raymond A. Zilinskas_  
-Harvard, 2012, 960 pp
+Harvard, 2012, 960 pp  
+Appeared in [Strategic Studies Quarterly August 20, 2014](https://www.airuniversity.af.edu/SSQ/Book-Reviews/Article/1192191/the-soviet-biological-weapons-program-a-history/)
 
 In The Soviet Biological Weapons Program, Dr. Milton Leitenberg of the University of Maryland and Dr. Raymond A. Zilinskas of the Monterey Institute of International Studies provide a comprehensive account of the Soviet Union’s 65-year biological weapons program. The authors reach the pinnacle of scholarly achievement by documenting the Soviets’ program as the longest and largest of its kind, involving 65,000 scientists, engineers, and support staff spread across a dizzying array of civilian research centers, ministries, and agencies—all involving a level of secrecy exclusive to the Kremlin.
 
