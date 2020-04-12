@@ -1,8 +1,6 @@
 # Poetry
 
-Poetry  
+The poetry I have written
 Will be an obscure fact  
-In a memoir  
-No one read  
-Published  
-Hundreds of years from now.  
+In a memoir read by no one  
+Published a hundred years from now.  

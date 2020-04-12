@@ -1,12 +1,8 @@
 # To Observe
 
-To observe  
-the night sky,  
-over a season,  
-from a single perception.  
-
-To observe  
-the individual,  
-ours,  
-over a life,  
-yields no answers. s
+To observe the night sky  
+Over a season  
+From a single perception
+To observe the individual  
+Over a life  
+Yields no answers
