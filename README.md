@@ -4,7 +4,7 @@ I write to understand.
 
 In my words. In my sentences. In my paragraphs. Within my pages.
 
-The cotinious attempt to bring meaning to life beyond the abstract.
+The continuous attempt to bring meaning to life beyond the abstract.
 
 Life beyond the nihilistic outlook our generation forces up the next.
 
