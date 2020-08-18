@@ -10,4 +10,3 @@ After eighteen years Keiko remains a loyal employee, pledging _to provide our cu
 Even the strongest surmise to the constant begrudging as Keiko invites a disgraced Shiraha to live with her. Thinking _it might actually be convenient for_ her to have him there. She calls her sister _to see what her reaction would be, and she immediately jumped to her own conclusion and was really happy for me._ Though as we often learn in our lives, our own happiness, pir own desires are what we must embrace. Regardless of the norms society places on us, we are not required follow them. Kieko _needs to hear the sound of the convenience store_ as she is a _convenience store worker._
 
 A standard tale, but smart, quirky, and told from the most unusual location, simply a joy to read. Irasshaimase, _Convenience Store Woman_! 
-
