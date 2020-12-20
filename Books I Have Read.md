@@ -1,7 +1,5 @@
 # Books I Have Read
 
-## 2021
-
 ## 2020
 
 **The Alchemist** _by Paulo Coelho_ HarperOne, 1988, 171 pp, Brazlian
