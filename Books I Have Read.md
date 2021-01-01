@@ -2,9 +2,13 @@
 
 ## 2020
 
+**Good Economics for Hard Times** _by Abhijit V. Banergee and Esther Duflo_ Public Affairs, 2019, 402 pp, American
+
+**The Rise and Fall of the Dinosaurs: A New History of a Lost World** _by Steve Brusatte_  William Marrow, 2018, 404 pp, American
+
 **The Alchemist** _by Paulo Coelho_ HarperOne, 1988, 171 pp, Brazlian
 
-**The Man in the High Castle** _by Philip K Dick_ Mariner Books, 1962, 273 pp, 
+**The Man in the High Castle** _by Philip K Dick_ Mariner Books, 1962, 273 pp, American
 
 **Tell Them Of Battles, Kings & Elephants** _by Mathias Enard_ A New Directions Book, 2010, 144 pp, French
 
@@ -33,6 +37,8 @@
 **The Ghost Brigades** _by John Scalzi_ TOR, 2006, 274 pp, American
 
 **The Last Colony** _by John Scalzi_ TOR, 2007, 320 pp, American
+
+**Blackwood** _by Michael Farris Smith_ Little Brown and Company, 2020, 289 pp, American
 
 **A Cat, A Man & Two Women** _by Junichiro Tanizaki_ New Direction Books, 1918, 164 pp, Japanese 
 
