@@ -16,7 +16,9 @@
 
 **We Have Always Lived in the Castle** _by Shirley Jackson_ Penguin Classics, 1962, 146 pp, American
 
-**Vagabonds** _by Hao Jingfang_ Gallery Saga Press, 2020, 608 Page, Chinese
+**Vagabonds** _by Hao Jingfang_ Gallery Saga Press, 2020, 608 pp, Chinese
+
+**On Writing** _by Stephen King_ Scribner, 2000, 316 pp, American
 
 **Invisible Planets: An Anthology of Contemporary Chinese Science Fiction In Translation** _by Ken Lie_ TOR, 2016, 392 pp, Chinese
 
