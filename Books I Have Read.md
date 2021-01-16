@@ -1,5 +1,13 @@
 # Books I Have Read
 
+## 2021
+
+**Do Andriods Dream of Electric Sheep?**, _by Philip K. Dick,_ Del Rey Mass Market, 1968, 265 pp, American
+
+**Providence**, _by Reverend Reginald Garrigou-Lagrange O.P.,_ Aeterna Press, 1957, 242 pp,s French
+
+**Python 3 Object-Oriented Programming**, _by Dusty Phillips,_ Packt Press, 2018, 452 pp, Canadian
+
 ## 2020
 
 **Good Economics for Hard Times** _by Abhijit V. Banergee and Esther Duflo,_ Public Affairs, 2019, 402 pp, American
