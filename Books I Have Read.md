@@ -10,6 +10,7 @@
 
 **The Bitcoin Standard: The Decentralized Alternative to Central Banks**, _Saifedean Ammous_, Wiley, 2018, 286 pp, Lebanese
 
+test
 
 ## 2020
 
