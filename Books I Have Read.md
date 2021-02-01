@@ -10,8 +10,6 @@
 
 **The Bitcoin Standard: The Decentralized Alternative to Central Banks**, _Saifedean Ammous_, Wiley, 2018, 286 pp, Lebanese
 
-test
-
 ## 2020
 
 **Good Economics for Hard Times** _Abhijit V. Banergee and Esther Duflo,_ Public Affairs, 2019, 402 pp, American
