@@ -12,7 +12,7 @@
 
 **Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**, _Merlin Sheldrake_, Random House, 352 pp, English
 
-**Stalingrad**, __Vasily Grossman_, New York Review of Books, 1053 pp, Russian
+**Stalingrad**, _Vasily Grossman_, New York Review of Books, 1053 pp, Russian
 
 ## 2020
 
