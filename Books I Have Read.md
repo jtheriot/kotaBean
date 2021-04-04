@@ -14,6 +14,8 @@
 
 **Stalingrad**, _Vasily Grossman_, New York Review of Books, 1053 pp, Russian
 
+**Slaughterhouse-Five**, _Kurt Vonnegut, Random House Publishing, 215 pp, American
+
 ## 2020
 
 **Good Economics for Hard Times** _Abhijit V. Banergee and Esther Duflo,_ Public Affairs, 2019, 402 pp, American
