@@ -12,9 +12,17 @@
 
 **Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**, _Merlin Sheldrake_, Random House, 352 pp, English
 
-**Stalingrad**, _Vasily Grossman_, New York Review of Books, 1053 pp, Russian
+**Stalingrad**, _Vasily Grossman_, New York Review of Books, 1952, 1053 pp, Russian
 
-**Slaughterhouse-Five**, _Kurt Vonnegut, Random House Publishing, 215 pp, American
+**Slaughterhouse-Five**, _Kurt Vonnegut_, Random House Publishing, 1969, 215 pp, American
+
+**The Book of Eels**, _Patrik Svensson_, Hollin Carper Publishers, 2019, 241 pp, Swedish
+
+**Dragon Ball Super Vol 10**, _Akira Toriyama_, Bird Studio, 2020, 192 pp, Japanese
+
+**Dragon Ball Super Vol 11**, _Akira Toriyama_, Bird Studio, 2020, 192 pp, Japanese
+
+**Dragon Ball Super Vol 12**, _Akira Toriyama_, Bird Studio, 2021, 192 pp, Japanese
 
 ## 2020
 
