@@ -8,6 +8,8 @@
 
 **Python 3 Object-Oriented Programming**, _Dusty Phillips,_ Packt Press, 2018, 452 pp, Canadian
 
+**Quantifying causality in data science with quasi-experiments**, _Tony Liu, Lyle Ungar, and Konrad Kording_, Nature Computational Science, 8 pp, Various
+
 **The Bitcoin Standard: The Decentralized Alternative to Central Banks**, _Saifedean Ammous_, Wiley, 2018, 286 pp, Lebanese
 
 **Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**, _Merlin Sheldrake_, Random House, 352 pp, English
@@ -15,6 +17,8 @@
 **Stalingrad**, _Vasily Grossman_, New York Review of Books, 1952, 1053 pp, Russian
 
 **Slaughterhouse-Five**, _Kurt Vonnegut_, Random House Publishing, 1969, 215 pp, American
+
+**The Use of Knowledge in Society**, _F.A. Hayek_, The American Economic Review, 1945, 11 pp, Austrian-British
 
 **The Book of Eels**, _Patrik Svensson_, Hollin Carper Publishers, 2019, 241 pp, Swedish
 
