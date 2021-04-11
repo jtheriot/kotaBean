@@ -28,6 +28,8 @@
 
 **Dragon Ball Super Vol 12**, _Akira Toriyama_, Bird Studio, 2021, 192 pp, Japanese
 
+**Yokohama Station SF**, _Yuba Isukari_, On Yen, 2021, 220 pp, Japanese
+
 ## 2020
 
 **Good Economics for Hard Times** _Abhijit V. Banergee and Esther Duflo,_ Public Affairs, 2019, 402 pp, American
