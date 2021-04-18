@@ -30,6 +30,8 @@
 
 **Yokohama Station SF**, _Yuba Isukari_, On Yen, 2021, 220 pp, Japanese
 
+**One Day In The Life of Ive Denisovich**, _Alexander Solzhenitsyn_, Signet Classics, 1962, 151 pp, Russian
+
 ## 2020
 
 **Good Economics for Hard Times** _Abhijit V. Banergee and Esther Duflo,_ Public Affairs, 2019, 402 pp, American
