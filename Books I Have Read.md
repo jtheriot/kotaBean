@@ -30,7 +30,7 @@
 
 **Yokohama Station SF**, _Yuba Isukari_, On Yen, 2021, 220 pp, Japanese
 
-**One Day In The Life of Ive Denisovich**, _Alexander Solzhenitsyn_, Signet Classics, 1962, 151 pp, Russian
+**One Day In The Life of Ivan Denisovich**, _Alexander Solzhenitsyn_, Signet Classics, 1962, 151 pp, Russian
 
 ## 2020
 
