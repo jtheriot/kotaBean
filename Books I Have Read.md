@@ -34,6 +34,8 @@
 
 **Adaptive Markets: Financial Evolution at the Speed of Thought**, _Andrew W. Lo_, Princeton University Press, 2017, 483 pp, American
 
+**Black Holes and Baby Universes and Other Essays**, _Stephen Hawking_, Bantom Books, 182 pp, British
+
 ## 2020
 
 **Good Economics for Hard Times** _Abhijit V. Banergee and Esther Duflo,_ Public Affairs, 2019, 402 pp, American
