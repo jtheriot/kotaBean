@@ -36,6 +36,8 @@
 
 **Black Holes and Baby Universes and Other Essays**, _Stephen Hawking_, Bantom Books, 182 pp, British
 
+**Geopolitical Alpha: An Investment Framework for Predicting the Future**, _Marko Papic_, 286 pp, Slavic
+
 ## 2020
 
 **Good Economics for Hard Times** _Abhijit V. Banergee and Esther Duflo,_ Public Affairs, 2019, 402 pp, American
