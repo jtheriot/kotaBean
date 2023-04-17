@@ -1,5 +1,6 @@
 ﻿
 On Providence: A Review
+
 16 April 2023
 
 We define Providence as the plan conceived in the mind of God, according to which He directs all creatures to their proper end. 
