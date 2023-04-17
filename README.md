@@ -1,6 +1,5 @@
 # Kota Bean
 
-Test push.
-Test second push.
-Test third push.
-
+To write allows us to communicate ideas. 
+To write allows us to create art.
+To write allows us to be.
